@@ -1,31 +1,23 @@
 {
-  "name": "sit725-2021-t1-prac3",
+  "name": "t1p3",
   "version": "1.0.0",
-  "description": "sit 725 week 3 prac",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ameetlohana/SIT725-2021-t2-prac3-.git"
+    "url": "https://github.com/Ameetlohana/SIT-2023-T1-prac5.git"
   },
-  "keywords": [
-    "Nodejs",
-    "Express",
-    "Materialize",
-    "HTML",
-    "JS",
-    "CSS"
-  ],
-  "author": "Ameet Lohana",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ameetlohana/SIT725-2021-t2-prac3/issues"
+    "url": "https://github.com/Ameetlohana/SIT-2023-T1-prac5/issues"
   },
-  "homepage": "https://github.com/Ameetlohana/SIT725-2021-t2-prac3#readme",
+  "homepage": "https://github.com/Ameetlohana/SIT-2023-T1-prac5#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^4.4.1",
     "nodemon": "^2.0.22"
   }
