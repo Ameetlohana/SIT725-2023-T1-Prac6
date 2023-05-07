@@ -1,5 +1,5 @@
 let client = require('../dbConnection');
-let collection = client.db('test').collection('Cats'); //TODO can be better
+let collection = client.db('Animals').collection('Dogs'); //TODO can be better
 
 function insertCat(cat, callback) {
     collection.insertOne(cat, callback);
